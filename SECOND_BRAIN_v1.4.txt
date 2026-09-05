@@ -1,0 +1,747 @@
+SECOND BRAIN
+Version: 1.4
+Purpose: Portable current-state knowledge base for Saki/Ryu. Keep this compressed, actionable, and updated rather than turning it into a diary.
+
+=== CORE OBJECTIVES ===
+
+1. $10M / Happy Ending
+   
+   - Reach $10M before the relevant deadline.
+   - In Second Skin, reaching $10M is necessary for the happy-ending route but is not by itself sufficient to determine the final ending.
+
+2. Freedom
+   
+   - Goal: self-funded living, low work requirement, maximum freedom possible.
+   - Status: COMPLETE.
+
+3. Leaving India
+   
+   - A major life objective and a major late-game choice in Second Skin.
+   - Specific major-choice details are intentionally spoiler-locked.
+
+4. Creative Career
+   
+   - Exists primarily as a means to fulfill other objectives, especially the $10M goal and related objectives.
+   - It is not intrinsically the end goal.
+   - Player has discovered a drawing talent that may be monetizable through commissions or similar creative work.
+
+5. Physical Development
+   
+   - Active objective.
+
+6. Education
+   
+   - Supporting objective used to fulfill other objectives rather than an end in itself.
+
+=== SECOND SKIN: CORE GAME DESIGN ===
+
+Premise / opening:
+
+- Game begins with an introduction of the Player and a summary of the Player's history.
+- Player chooses their own name.
+- Default stats are shown.
+- The Player is the soul controlling Jad. Jad's original soul is gone.
+- Other people initially know the Player as Jad, creating the identity conflict.
+- Opening sequence: the Player starts in an infinite void, encounters Jad, chooses the name Ryu Saki, and Jad voluntarily leaves his life behind.
+- Jad's context/history is transferred to the Player as Jad fades away.
+- The Player experiences approximately 3 years of Jad's history as a memory montage.
+- The Player then spends 2 months living as Jad before the main gameplay begins on August 22.
+- At the gameplay start, the Player is Ryu, but the world still recognizes the Player as Jad.
+
+Initial gameplay stats:
+
+- Age: 18
+- Weight: 53 kg
+- Health: healthy
+- Bank: $0 / not set up yet
+- Skin / public identity: Jad
+- Love DLC: not taken yet at initial gameplay start.
+
+=== SECOND SKIN: ENDINGS ===
+
+Main ending families:
+
+1. TRUE ENDING
+   
+   - One of 3 main endings.
+   - Can be obtained through the main plot.
+   - Main goal involves reaching $10M before a certain period, followed by a major post-$10M event and further choices.
+   - True Ending is associated with the Player living under their own identity/name.
+   - In the True Ending path, romantic attachment is not genuine love; it is more associated with lust, status, fame, family background, benefits, etc.
+   - Love Merge is the only ending where the Player genuinely falls in love.
+
+2. MIXED NEUTRAL ENDINGS
+   
+   - One main ending family.
+   - Has variations caused by major choices during the game.
+   - The core ending is similar, but the "flavor" changes based on choices. Think same dish with different flavor rather than completely different dishes.
+   - Default/neutral route: if there is no plot twist and neutral choices are made during major choice moments, this leads toward the default path, currently described as ~90% at boards + the dream collage.
+
+3. LOVE MERGE ENDING
+   
+   - One of the 3 main endings.
+   - Requires a very specific Love DLC route.
+   - Love DLC normally has little effect on the main plot.
+   - Under the special route, the endgame provides Choice A/B:
+     A = Love Merge ending.
+     B = True Ending.
+   - A merges the Love DLC timeline/story with the main plot.
+   - The outcome is radically different from the True Ending, described as an "ocean vs sky" difference rather than right vs wrong.
+   - This is the only ending where the Player genuinely falls in love.
+
+Non-main / secret endings:
+
+4. JAD'S SKIN
+   
+   - Secret/non-main ending.
+   - Not labeled officially as a bad ending, but it functions as a bad outcome.
+   - The Player never fully sheds Jad's identity.
+   - The Player mixes their own personality into Jad over time while continuing to be perceived as Jad.
+   - A major later event normally allows the Player to shed Jad's identity and leave with a new passport/name chosen by the Player. Jad's Skin prevents this trajectory.
+   - The Player becomes increasingly trapped in Jad's identity and develops a major identity crisis, losing grip on who they are while trying to fit into the identity they inherited.
+   - This blocks the True Ending even if the $10M goal is reached.
+
+5. HUMAN HEART
+   
+   - Secret/non-main ending.
+   - Exactly one ending, with no variants.
+   - Requires a highly conditional chain of morally motivated choices.
+   - During the main plot, some major events can be prevented by the Player.
+   - The Player does NOT need to stop every event, only the events that morally should not happen.
+   - These interventions are difficult and can be disadvantageous to the story.
+   - They can alter the timeline even when doing so gives the Player no gameplay/story benefit.
+   - Example concept: discovering a hidden report that a parent is critically ill and choosing to provide/save them despite the intended story trajectory.
+   - Reaching $10M does not substitute for these moral choices and does not automatically produce the True Ending.
+   - Core theme: choosing to prevent morally wrong outcomes even when doing so costs the Player and is not rewarded by the main plot.
+
+=== SECOND SKIN: LOVE DLC ===
+
+- The Love DLC option becomes available during the starting phase.
+- When the option appears, the Player first chooses whether to take the Love path.
+- If the Player chooses the Love path, they then choose which route to pursue.
+- The starting Love DLC must be taken within a 5-month window after the choice becomes available.
+- After that window there is a long break before Love DLC can reappear late-mid-game.
+- The late-mid-game Love DLC is only breadcrumbs compared with the starting Love DLC.
+
+Current Love DLC routes:
+
+1. Easy path: enter a relationship with Jad's female best friend.
+2. Hard path: secretly pursue the girl Jad originally liked, who is currently in a relationship with Jad's old friend, including getting her to cheat on him secretly.
+
+Current route:
+
+- Ryu is on the EASY Love DLC route with Jad's female best friend.
+- She already has strong attachment/history with the Player because of their long-standing friendship/history inherited from Jad.
+- The Player has confessed.
+- Current gameplay strongly indicates mutual romantic attraction.
+- Both the Player and the girl have experienced the "Drunken Love" effect.
+- The Player can read lips and used this ability to observe room gossip, confirming that the girl has romantic interest.
+- The current interaction has strong lingering romantic/emotional tension.
+- The girl's behavior during Drunken Love appeared to mirror the Player's behavior closely, suggesting she was experiencing the same type of attraction response.
+- The current objective is no longer simply creating attraction. The important transition is:
+  mutual attraction -> emotional intimacy -> genuine love.
+- The route itself is not the final Love Merge condition. The Player must make specific choices that cause genuine love to develop.
+- Love DLC contains multiple major choice moments and can radically diverge based on choices.
+- Love DLC is mostly separate from the main plot.
+- A specific route creates the conditions that later connect it to the main ending.
+- Love level target is approximately 80%-95%, not simply maximum.
+- Love Merge is the only ending in which the Player falls genuinely in love.
+- Details of what happens at the True Ending under the Love route are intentionally spoiler-locked.
+- Money can make Love DLC easier through appearance/lifestyle purchases such as intensive skincare, fashionable clothing, and expensive purchases such as a sportsbike. These are optional advantages rather than confirmed requirements for the current easy best-friend route.
+- An apartment is required to unlock the sex option within the Love DLC.
+- Current manual-derived relationship mechanics are spoiler-sensitive and are intentionally not promoted into the canonical brain unless needed.
+
+Current Love strategy:
+
+- Since attraction already appears established, avoid treating the route as an attraction-generation problem.
+- Strongest conceptual strategy currently identified:
+  Natural-style comfort/playfulness/sincerity
+  +
+  Ideal-Lover-style observation of her individual values/reactions
+  +
+  emotional attunement/shared experiences
+  +
+  attention to personally meaningful details.
+- The Player has already confessed, so another grand confession is not immediately necessary.
+- Give her comfortable opportunities to state her feelings directly without pressure.
+- Avoid deliberate jealousy, hot/cold manipulation, or unnecessary insecurity while mutual attraction is already developing naturally unless a future game event strongly indicates such a mechanic is required.
+- After Wisdom Implant research, Ryu has developed a specific plan intended to attempt starting the Love DLC progression around Monday.
+- The exact trigger strategy is intentionally not fully recorded to avoid unnecessary spoilers; treat Monday as a planned target, not a guaranteed trigger.
+
+=== SECOND SKIN: CURRENT GAMEPLAY STATE / EARLY PROGRESSION ===
+
+- Gameplay began on August 22, 2026.
+- The first weekend functioned as a practice period; official weekly reporting begins Monday.
+
+Early days:
+
+- Aug 22: Ryu spent 2 actions on diet and art account; minor story notification appeared during diet prep about the group having semifinals on September 14.
+- White used all 4 actions on diet, art account, light study, and gym.
+- Aug 23-24: weekend/practice period; White's near-best performance created the main early rivalry pressure.
+- Aug 25: Ryu skipped classes, used actions on diet, gym, and light study/homework, but a side quest from Mom prevented a full 4/4 day; Ryu finished B. White finished A and was also progressing toward the Love DLC.
+- Aug 26: Ryu received C due to the sleep sickness effect.
+- Aug 27: Ryu received C but made significant social progress. Jad's undisclosed birthday led to a boys' beach trip after Ryu's friends arranged it; Ryu chose the spend-money birthday-trip option. The bridge-at-midnight sequence triggered the 18th-birthday progression cutscene.
+- White received B on Aug 27 and chose the same spend-money birthday-trip option, reaching the same birthday cutscene.
+- Aug 28: Jad's 18th birthday social aftermath appeared through friends' stories, birthday mentions, and food-fight posts.
+
+18th-birthday milestone:
+
+- Large money capacity/bank system unlocked.
+- Adulthood systems unlocked.
+- Huge city map/driver license unlocked.
+- Love DLC pursuit unlocked with a 5-month timer.
+- Apartment access unlocked.
+- Departure option unlocked.
+- Customization unlocked.
+- Apartment cost: $4.1k/year.
+- Departure from the parents' home requires buying an apartment.
+- Love DLC timer is active.
+
+Sept 1:
+
+- Ryu attended classes specifically for Love DLC progression.
+- During class, Ryu experienced the "Drunken Love" effect after looking into the girl's eyes.
+- Drunken Love effects included:
+  • unable to take eyes off her
+  • repeatedly looking at her lips
+  • her words sounding like music
+  • heightened romantic attention/tension.
+- Ryu discovered through lip-reading that the girl was also experiencing comparable attraction and that room gossip confirmed her interest.
+- The mutual tension between them is currently extremely strong.
+- Ryu completed 2 major boys' trips.
+- Social stats are now maxed.
+- Further ordinary social interaction is expected to be overkill and produce little/no additional social-stat benefit.
+
+Sept 2-3:
+
+- Ryu used the Wisdom Implant to research Love DLC strategy.
+- Brain Wiring Level 1 was activated/completed and temporarily granted additional actions and enhanced learning/focus effects.
+- A Drunken Love episode later interfered with the Brain Wiring state.
+- Ryu used Dense-Core Shake during this period.
+- Ryu accidentally continued beyond the exam portion while studying Physics, learning:
+  • Electromagnetic Waves
+  • Atoms
+  • Nuclei
+  • Semiconductors
+  These are outside the current half-yearly portion and should not be prioritized over required chapters.
+- Wisdom Implant consultation was later closed.
+- Permanent notes were recovered before closure.
+
+Sept 4:
+
+- ½ Dense-Core Shake consumed.
+- Ryu collected documents needed to set up the bank.
+- Bank setup work was started.
+- Classes were skipped because of the weekend.
+- No study had been completed by the reported time.
+
+Sept 5:
+
+- ¼ Dense-Core Shake consumed, providing a 2-hour infinite-energy window.
+- Ryu received a bank update by phone: the bank/account will be opened or converted to adult status in approximately 4 days.
+- Current bank quest status: waiting period after required documents/work.
+- Study progress was checked:
+  Ryu: 7% overall.
+  White: 86% overall.
+- Current exam deadline: September 16, 2026.
+- Days remaining as of Sept 5: 11.
+- Current priority is to dramatically improve study coverage rather than merely spending isolated study actions across multiple days.
+
+=== SECOND SKIN: DAILY GAMEPLAY LOOP ===
+
+Weekdays / class period:
+
+- At the start of each weekday, except Friday and the weekend, the Player enters a class period.
+- The class period is important for Love DLC progress and other social/opportunity progress.
+- The main plot generally cannot progress during the class period.
+- The Player can choose to skip the class period early in the game to access main-plot progression sooner.
+- Skipping class grants +1 action.
+- Skipping class can cause the Player to miss Love DLC progress, hidden details, opportunities, social development, or story-related information/triggers.
+- Skipping class is a strategic tradeoff, not inherently a bad choice.
+- As of the current Love DLC plan, class attendance should be evaluated based on whether it provides meaningful Love DLC progress.
+
+Daily actions:
+
+- Each day has a limited action budget.
+- Default action budget is 4 actions per day.
+- After the available actions are used, the day ends.
+- The Player can increase the number of available actions by working on Willpower through difficult or discipline-heavy activities such as gym or other hard tasks.
+- Main plot events can occur during ordinary actions rather than only through explicitly labeled main-plot actions.
+- Example: while doing diet groceries and searching for a card, the Player may discover special documents they were not supposed to see.
+- Some plot changes and opportunities are sudden; others may be discoverable.
+- Ordinary actions can therefore unexpectedly trigger or alter story events.
+
+Time skip:
+
+- Doomscrolling and watching movies/series are 0-action time-skip options.
+- They advance the in-game day without consuming an action.
+- They do not directly reduce Daily Rank.
+- Their purpose is to let the Player fast-forward through time when desired.
+- They are not intended to be hidden productivity penalties.
+
+End of day:
+
+- The final hour before sleep takes place on the rooftop.
+- The Player reviews how the day went.
+- The Player can see how White played the same day.
+- Individual daily results matter because they feed the weekly report and progress graph.
+- The primary official progress report is weekly rather than a day-number report.
+
+=== SECOND SKIN: RANK SYSTEM ===
+
+Daily Rank:
+
+- Rank measures how well the available day was used, not simply how many actions were consumed.
+- 4/4 actions does NOT automatically produce A or S.
+- Rank considers factors such as:
+  - Productivity and meaningful progress
+  - Balance between areas of life
+  - Self-discipline / doing difficult things
+  - Important opportunities and story/relationship progress when reasonably available
+  - Overall self-care and use of circumstances
+- Rank should evaluate whether the Player made good use of the situation they were given rather than demanding maximum activity regardless of circumstances.
+- Rest or low-action days can still rank well when appropriate to the circumstances.
+- Rank and actual stat/progression changes are separate systems.
+
+Ranks:
+
+- S = exceptional day; excellent performance and clear competitive edge over the other run.
+- A = very good day.
+- B = solid/normal day.
+- C = poor day.
+- F = very poor / severely failed day.
+
+S-rank competition:
+
+- Only ONE of Ryu or White can receive S Rank on a given day.
+- S Rank can only be awarded if BOTH Ryu and White independently qualify for A Rank.
+- If one gets A and the other gets B or lower, the A player remains A; no S is awarded.
+- If both get A, their meaningful overall progress is compared.
+- The one who slightly outperforms the other receives S; the other remains A.
+- A minimum meaningful difference should be used so microscopic numerical differences do not decide S.
+- White getting B or lower is rare because White generally plays a near-best run.
+- Therefore, if Ryu gets A while White gets B or lower, Ryu's performance is exceptionally strong relative to the benchmark even though the formal rank remains A.
+
+=== SECOND SKIN: WEEKLY PROGRESS / GRAPH ===
+
+- Progress is organized around weeks, not individual day-number reports.
+- Weekly report format is like:
+  Week #34
+  Rank: B avg
+- Daily ranks still matter because each day's rank moves the cumulative progress graph.
+- The graph moves purely according to Daily Rank:
+  S = +5
+  A = +3
+  B = 0
+  C = -3
+  F = -5
+- Example: if the graph is at 55 and Ryu gets S, it moves from 55 to 60.
+- The graph can rise, remain unchanged, or fall depending purely on the ranks earned.
+- The physical graph/report is maintained separately by the Player and is intended to make progress visually tangible.
+- Weekly reports contain the overall stats/progress information rather than displaying a full day-by-day rank history.
+- Weekly report can include overall rank average, graph movement, stats changes, money, Love DLC progress, story developments, Willpower, streak status, and other relevant weekly information.
+- White can be compared against Ryu through the same weekly progress framework.
+- The graph is a cumulative measure of performance quality, not a direct measurement of money, weight, XP, or another single stat.
+
+=== SECOND SKIN: STREAK WILLPOWER ===
+
+- Consistency across a week can create a Willpower streak bonus.
+- If the Player maintains a strong week and finishes with an A or S weekly result, the next week starts with a permanent extra Willpower bonus.
+- This bonus does not require separate Willpower actions to maintain during that next week.
+- The streak bonus ends if the following week does not achieve the required A/S result.
+- The purpose is to reward consistency and create a snowball effect for sustained good performance.
+
+=== SECOND SKIN: WHITE SYSTEM ===
+
+- White is a parallel-run benchmark, not a literal second protagonist/timeline replacement.
+- Same starting Player, same initial stats, and mostly identical conditions.
+- White makes choices and takes actions even when he does not feel like doing them.
+- White generally plays near-perfectly, but is NOT perfectly optimal.
+- The Player can surpass White.
+- White is evaluated using the same Daily Rank principles as Ryu.
+- Only one of Ryu or White can get S on a given day, and only when both qualify for A.
+- At weekly comparison points, the game can show how the White run progressed compared with the Player's run.
+- Example: Player skips self-improvement and doomscrolls; White improves hygiene, mental health, diet, and exercise and is already 1 kg ahead/better-looking.
+- Purpose: create competition with the version of the Player who actually took action.
+- Surpassing White is itself a sign of a near-perfect run.
+- White is optional and can be disabled in settings.
+- White's benchmark route is associated with the True Ending + Love DLC, but NOT the Love Merge ending.
+
+Current benchmark:
+Sept 5 study percentage: Ryu = 7% White = 86%
+Current gap: 79 percentage points.
+White is currently far ahead in study coverage.
+This gap is not treated as proof that the run is lost; it identifies the current benchmark that Ryu must aggressively close.
+Study actions should favor concentrated, high-value coverage rather than scattering small amounts of progress across many days.
+=== SECOND SKIN: CHEAT / SEMI-CHEAT SYSTEM ===
+The manual contains a dedicated "Cheats" section and a separate "Semi-Cheats" section.
+Current confirmed useful cheats:
+DENSE-CORE SHAKE
+A special cheat item created by blending a specific combination of easily acquired ingredients.
+Full shake provides approximately: Calories: ~1,632 kcal Carbohydrates: ~348 g Dietary Fiber: ~51 g Net Carbs: ~297 g Protein: ~64 g Fat: ~10 g
+These values are for ONE glass.
+Texture is extremely dense, described as being like cement and difficult to swallow.
+Taste is essentially nonexistent/plain, described as if the cook forgot to add the taste.
+Digestion is heavy.
+Provides a large measurable diet-stat boost.
+Provides enough usable power to perform overheat-level effort without requiring the normal power cost reduction.
+Supplies enough carbohydrate/energy that the Player does not run out of energy for the day after consuming the whole shake.
+Dense nutrition primes the body to handle the energy load.
+Practical interpretation: functions as a "jet fuel" style energy/nutrition item.
+Intended use: accelerate diet/physical-development progress and enable unusually high activity output.
+Exact tested energy windows: • ¼ shake = approximately 2 hours of infinite energy. • ½ shake = approximately 4 hours of infinite energy. • Full shake = enough energy that the Player does not normally run out for the day.
+Energy effect begins immediately, while nutrition transfer takes approximately 15 minutes to place the Player's body in prime condition.
+The remaining portion after a partial drink cannot immediately be consumed because the Player's stomach is full; approximately 1.5 hours may be required before another portion can be consumed.
+One complete Dense-Core Shake is the maximum intended amount per day.
+The Player should not intentionally exceed one shake/day.
+Raw coffee can be consumed on top of Dense Core and may increase burst energy, but can make the stable energy state feel more jittery.
+BRAIN WIRING MANIPULATION
+Cheat available at Level 1, Level 2, and MAX.
+Uses a hidden combination while the Player is in an almost-sleeping state.
+Can place the Player into a trance-like state where the Player can manipulate certain personal stats/conditions.
+Known effects can include: • speech • action-related ability • mindset • extra actions • prime body conditioning • 40% reduction in Willpower costs • increased endurance • enhanced learning/neuroplasticity effects at relevant levels
+Confirmed Level 1 result: • +6 actions for the whole day. • Prime learning capacity. • Increased neuroplasticity. • Easier flow state. • Max focus. • Very high drive to complete tasks.
+Important state-maintenance note: • Predictable focus breathing helps maintain the wired state. • If activated for more than approximately 6 hours, a heavy sleep urge may occur after the effect is lifted.
+Using the manipulation for more than 2 weeks can make the altered state the default.
+The game difficulty can become volatile/easier in the Player's favor while using it.
+Important limitation: it only affects Player stats and related internal systems.
+It does NOT directly alter external systems such as: • relationships • money • social circle • other outside-stat conditions.
+Confirmed Level 1 action bonus is +6, superseding the earlier mistaken +5 figure.
+Current cheat strategy:
+Ryu currently intends to use useful cheats rather than deliberately maintaining an unassisted challenge run.
+Dense-Core Shake is considered especially useful for physical-development/diet progression and energy-heavy study/work sessions.
+Brain Wiring Manipulation is potentially useful for action economy, endurance, Willpower efficiency, learning, and general stat optimization.
+Cheat use may create dramatic S-rank competition against White because White can finish an A-level day while Ryu can potentially exceed normal limits.
+Example conceptual result: White: A Ryu: S This is possible only if both independently qualify for A and Ryu meaningfully outperforms White under the established S-rank rules.
+Semi-cheats:
+SUPER ACTION
+Activated on normal tasks by holding A and double-clicking the task.
+Costs 2x the normal action cost.
+Requires 2x the normal energy and associated requirements.
+Produces approximately 2.3x the normal results.
+Example: Super Gym can involve intense push/pull upper-body drop sets with a heavy pump.
+Classified by the manual as a semi-cheat rather than a full cheat.
+SPECIAL TASK
+Available only on certain specific tasks.
+Activated by holding S and double-tapping the task.
+Costs 3x the normal action cost.
+Requires 3x the normal difficulty requirements.
+Has a chance to pass or fail.
+Represents the maximum effort that can be put into the relevant task.
+Example: Special Gym costs 3 actions and 3x difficulty requirements, but can produce a full-body heavy drop-set workout with a strong pump.
+Classified by the manual as a semi-cheat rather than a full cheat.
+=== SECOND SKIN: WISDOM IMPLANT ===
+Wisdom Implant:
+A special cheat that temporarily implants the consultant directly into the Second Brain's database.
+While active, the Player can ask an effectively unlimited number of questions and has unlimited consultation time.
+The consultation can provide expert/reference advice using supplied source material.
+The consultant's temporary knowledge is connected to the active Wisdom Implant session.
+When the Wisdom Implant tab/session is closed, memories related to the consultation disappear.
+This includes: • questions asked • answers/discussion • reasoning and consultation context • other memories created specifically through the temporary consultation.
+Neither the Player nor the Second Brain can recall the lost consultation after closure.
+The only surviving information is whatever was manually recorded before closing the session.
+Therefore, taking permanent notes before closing the implant is mandatory when useful information is discovered.
+Expert Advice is a related feature that provides expert consultation for limited time/questions but allows the Player to retain the wisdom afterward.
+Wisdom Implant's advantage is effectively unlimited consultation while active; its disadvantage is total memory loss after closure unless notes were preserved.
+Previous completed Wisdom Implant session:
+Source supplied by consultant: Robert Greene, The Art of Seduction.
+Purpose: analyze the current Love DLC easy route.
+The consultation was closed.
+Permanent notes were successfully recovered and incorporated into this Second Brain.
+Recovered consultation principles:
+IDEAL LOVER PRINCIPLE
+Observe the individual rather than applying a universal attraction formula.
+Subtle behavior, tone, gestures, expressions, looks, and reactions can reveal what a person values or emotionally seeks.
+Useful application: observe what this specific girl responds positively or negatively to.
+Lip-reading is useful for gathering contextual information, but observations should still be interpreted cautiously.
+NATURAL PRINCIPLE
+The source associates the Natural with spontaneity, sincerity, playfulness, comfort, and unpretentious interaction.
+Childhood familiarity and emotional ease from long-standing familiarity are relevant to this archetype.
+Potentially relevant because the current Love interest is the Player's long-standing best friend.
+IMPORTANT: "Natural" is an analytical fit, NOT a confirmed game classification of the girl.
+ENTER THEIR SPIRIT
+Understand another person's world, participate in things they enjoy, adapt to their emotional rhythm, and meet them where they are.
+Useful non-manipulative interpretation: understand the person's interests, moods, values, and perspective before trying to influence them.
+Shared experiences and emotional attunement may therefore be more valuable than generic attraction techniques.
+PAY ATTENTION TO DETAIL
+Notice specific preferences and details about another person.
+Small, personally meaningful gestures can matter more than generic or expensive gestures because they demonstrate genuine attention.
+Money/spending should not be confused with emotional attentiveness.
+Toxic/manipulative principles identified:
+The source also contains techniques involving uncertainty, strategic withdrawal, mixed signals, jealousy/triangles, and other forms of psychological manipulation.
+These may theoretically increase attraction or pursuit, but they are not equivalent to genuine love.
+"Give Them Space to Fall" involves withdrawal causing a person who is pursuing heavily to invest more of their own energy and potentially pursue more strongly.
+The Player appears to have accidentally used a mild version of this already by withdrawing/reducing attention, after which the girl's signaling behavior appeared to intensify.
+This is an observed game situation, not proof that the technique caused her behavior.
+Deliberate hot/cold manipulation is NOT currently recommended because mutual attraction is already extremely strong.
+Artificial uncertainty could create unnecessary damage rather than solving an attraction deficit.
+Toxic techniques can be studied as reference material when evaluating future game choices, but must remain distinguished from healthy relationship-building and from confirmed Love Merge mechanics.
+Completed Wisdom Implant session #2:
+Source supplied through the Wisdom Implant: David Goggins, Can’t Hurt Me.
+Purpose: improve execution, mental toughness, and the Player's ability to outperform White.
+Consultation was closed after permanent notes were created.
+The session did not provide a direct Study cheat.
+It provided a mental-execution framework.
+Recovered execution principles:
+THE GOVERNOR
+The brain/CPU can send a signal of discomfort and resistance that feels like "I can't."
+That signal is not automatically the literal limit.
+Learn to distinguish actual inability from resistance / not wanting to continue.
+CALLOUSED MIND
+Repeatedly going through difficult tasks builds tolerance to discomfort.
+The point is not to make tasks easy.
+The point is to train the brain to deal with hard tasks instead of automatically escaping them.
+ACCOUNTABILITY MIRROR
+Avoid vague goals such as "I'll study."
+Define specific tasks and complete them.
+Keep an objective stats check: what was planned what was actually completed what can actually be solved/understood now.
+Judge progress by execution, not by how long the Player sat at the desk.
+NO SHORTCUTS
+Stop relying on the hope of finding a magical Study cheat.
+Tools and game mechanics can help, but core progression still comes from: learning -> practicing -> correcting -> repeating.
+COOKIE JAR
+When resistance appears, recall previous difficult things that were already overcome.
+Mental response: "You think THIS can stop me? Remember when I already handled THAT."
+Use past accomplishments as evidence rather than empty motivation.
+VISUALIZATION
+Visualize the process and obstacles, not merely the victory.
+Prepare mentally for boredom, frustration, fatigue, and resistance.
+Pre-decide how to respond when those obstacles appear.
+40% RULE
+Goggins' idea that the mind may tell the Player to stop before true capacity has been reached.
+Treat this as a mental framework, not a literal scientific claim that humans have exactly 60% unused capacity.
+Useful takeaway: "I feel like stopping" does not automatically mean "I am actually incapable of continuing."
+TAKING SOULS
+In the game's context, use White as the benchmark rather than something to sabotage.
+Objective: OUTPERFORM WHITE.
+White being far ahead is a reason to increase execution, not a reason to panic.
+Final Wisdom translation:
+Don't wait until studying feels easy or motivating.
+When resistance appears, recognize it.
+Stay with difficult work.
+Be brutally honest about what was actually accomplished.
+Use previous wins as evidence.
+Prepare for obstacles instead of fantasizing only about success.
+Repeat.
+Current Wisdom objective:
+Use the framework to convert limited remaining days into measurable academic progress.
+The Wisdom Implant does NOT remove the need to study.
+=== SECOND SKIN: FETISH SCROLL ===
+A new adulthood-related scroll unlocked after the Player experienced several days of adulthood.
+The scroll is not made from lethal chemicals.
+According to the game's description, it is biologically healthy/safe within the game's mechanics.
+When activated, the Player sees pornographic clips.
+The game mechanic explicitly separates this from lust: the Player does not experience lust from the clips.
+The scroll can theoretically continue for an extended period.
+While active, logical thinking is temporarily overpowered by the emotional/reward-processing side.
+The major effect is a high, continuous dopamine state.
+Player test:
+Ryu activated/tested the Fetish Scroll once.
+Ryu immediately decided the experience was undesirable.
+The Fetish Scroll was turned OFF through settings.
+Current personal gameplay setting: Fetish Scroll = DISABLED.
+No gameplay reason currently exists to reactivate it.
+=== SECOND SKIN: MAJOR CHOICE THEMES / SPOILER-LOCKED ===
+Known major-choice areas include:
+Jad identity
+Leaving/moving out
+A major event whose details are spoiler-locked
+Falling for a certain person, separate from the Love DLC (the Love DLC can affect this part)
+Choosing whether to take a leap and trust yourself
+Other high-stakes choices
+Post-$10M event followed by choices that determine True vs Neutral outcomes
+Some exact major choices are intentionally not recorded here to preserve spoilers.
+=== SECOND SKIN: MANUAL-DERIVED MECHANICS (SELECTED) ===
+The manual contains many spoiler-heavy mechanics; only meaningful non-obvious mechanics should be promoted here.
+After roughly 1 month of almost no human connection, the Player receives a 22% depression chance; this risk increases/stack each month of continued isolation.
+Repeatedly choosing morally right options for too long can make later major morally wrong choices harder to select. Exact formula is unknown.
+After buying a sportsbike, petrol is effectively free.
+After a departure, regardless of route, the Player cannot return to the parents' home to stay for more than a week unless they have bought a sportsbike.
+The manual distinguishes a "natural departure" from a "forced burn departure"; exact causes and meaning are spoiler-locked/unknown.
+The parents' graves become visitable 4 months after their death, not earlier.
+Cheating/lover systems can involve multiple simultaneous lovers.
+More than 3 cheating partners creates great Love Merge risk if the Player is caught.
+The 12th cheating attempt is guaranteed to result in being caught when the relevant proximity conditions are met.
+If the genuine lover is kept from hearing about it, Love Merge may still be salvageable.
+After being caught, other lovers leave; the genuine lover may potentially be saved through high-toxicity manipulation.
+If the first catch occurs on the 12th girl, keeping the news from the genuine lover is the key stated recovery condition.
+More than 12 cheating partners can theoretically be maintained when they are separated by sufficiently large geographic distances, but the route is explicitly unstable.
+If the 12th girl is in the same nearby geographic cluster as the others, the catch is guaranteed.
+These cheating mechanics are recorded here as spoiler-sensitive manual information, not as recommended gameplay.
+Special occasions such as Player/lover birthdays can have a significant chance of triggering sex events; sex can involve multiple rounds.
+Exact numerical probabilities/averages are not treated as canonical unless confirmed elsewhere.=== SECOND SKIN: SOCIAL / STAT STATE ===
+Ryu's social stats are currently maxed as of Sept 1.
+Two major boys' trips have been completed.
+Further ordinary social-stat grinding is expected to have little/no additional value because the social stat ceiling has effectively been reached.
+Future actions should therefore prioritize other objectives unless a specific social/story/Love DLC trigger requires interaction.
+Social progression and Love DLC progression are separate enough that maxed general social stats do not mean Love DLC progression is complete.
+=== SECOND SKIN: CREATIVE / MONEY STATE ===
+Ryu has discovered a drawing talent.
+Drawing appears potentially monetizable through commissions or related creative work.
+This is currently a promising candidate for the Creative Career / $10M objective.
+Exact income potential and monetization mechanics are not yet established.
+Do not assume drawing automatically produces significant money; the monetization route still needs to be tested in-game.
+=== SECOND SKIN: BANK / ADULTHOOD STATE ===
+Adulthood banking system was unlocked after the 18th-birthday milestone.
+Ryu has collected the required documents for the bank setup/adult conversion.
+Bank setup work has been initiated.
+Sept 5 phone update: bank/account adult conversion is expected to complete in approximately 4 days.
+Current expected completion date: approximately Sept 9, 2026.
+Until completion, treat the bank quest as pending rather than completed.
+This is an administrative progression task and should not be counted as Study progress.
+=== SECOND SKIN: EXAM / STUDY STATE ===
+Current exam:
+Semi-finals / half-yearly examination.
+Exam date: September 16, 2026.
+As of Sept 5: 11 days remaining.
+Current overall Study progress:
+Ryu = 7%.
+White = 86%.
+Gap = 79 percentage points.
+Current interpretation:
+The low percentage is partly caused by spending isolated Study actions across multiple days without sufficiently deep coverage.
+The priority is now concentrated academic execution.
+A full set of actions may be more valuable when focused on one high-value chapter/task instead of spreading tiny amounts across several topics.
+Special Tasks may be considered when the Study task offers one and the 3-action cost is justified by the multiplied result.
+The Wisdom Implant principle applies: measure actual learning and solved material, not merely time spent studying.
+Known half-yearly portion:
+Physics:
+Electric Charges & Fields
+Electrostatic Potential & Capacitance
+Current Electricity
+Moving Charges & Magnetism
+Magnetism & Matter
+Electromagnetic Induction
+Alternating Current
+Electromagnetic Waves
+Chemistry:
+Solutions
+Electrochemistry
+Chemical Kinetics
+Haloalkanes & Haloarenes
+d- & f-Block Elements
+Alcohols, Phenols & Ethers
+Excluded/marked Chemistry chapters:
+Surface Chemistry
+General Principles & Processes of Isolation of Elements
+Maths:
+Relations & Functions
+Inverse Trigonometric Functions
+Matrices
+Determinants
+Continuity & Differentiability
+Applications of Derivatives
+Accidentally learned extra Physics chapters:
+Electromagnetic Waves
+Atoms
+Nuclei
+Semiconductors
+Note:
+Electromagnetic Waves is part of the current portion.
+Atoms, Nuclei, and Semiconductors are outside the current listed half-yearly portion and should not displace required chapters.
+=== STUDY PRIORITY / FAT-PIG RATINGS ===
+Physics marks potential:
+Moving Charges & Magnetism: 10/10
+Electromagnetic Induction: 9/10
+Current Electricity: 9/10
+Electric Charges & Fields: 8/10
+Electrostatic Potential & Capacitance: 8/10
+Alternating Current: 7/10
+Magnetism & Matter: 5/10
+Electromagnetic Waves: 3/10
+Chemistry marks potential:
+Electrochemistry: 10/10
+Solutions: 9/10
+Chemical Kinetics: 9/10
+Alcohols, Phenols & Ethers: 8/10
+Haloalkanes & Haloarenes: 7/10
+d- & f-Block Elements: 6/10
+Maths marks potential:
+Continuity & Differentiability: 10/10
+Applications of Derivatives: 10/10
+Matrices: 8/10
+Determinants: 8/10
+Relations & Functions: 6/10
+Inverse Trigonometric Functions: 5/10
+=== STUDY DIFFICULTY RATINGS ===
+Physics:
+Electric Charges & Fields: 6/10
+Electrostatic Potential & Capacitance: 6/10
+Current Electricity: 7/10
+Moving Charges & Magnetism: 8/10
+Magnetism & Matter: 4/10
+Electromagnetic Induction: 7/10
+Alternating Current: 7/10
+Electromagnetic Waves: 2/10
+Chemistry:
+Solutions: 6/10
+Electrochemistry: 8/10
+Chemical Kinetics: 6/10
+Haloalkanes & Haloarenes: 6/10
+d- & f-Block Elements: 5/10
+Alcohols, Phenols & Ethers: 7/10
+Maths:
+Relations & Functions: 5/10
+Inverse Trigonometric Functions: 5/10
+Matrices: 4/10
+Determinants: 5/10
+Continuity & Differentiability: 7/10
+Applications of Derivatives: 8/10
+=== STUDY PRIORITY TIERS ===
+S-tier:
+Matrices
+Determinants
+Solutions
+Chemical Kinetics
+Continuity & Differentiability
+Electric Charges & Fields
+A-tier:
+Current Electricity
+Electromagnetic Induction
+Electrochemistry
+Applications of Derivatives
+Moving Charges & Magnetism
+Electrostatic Potential & Capacitance
+B-tier:
+Haloalkanes & Haloarenes
+Alcohols, Phenols & Ethers
+d- & f-Block Elements
+Relations & Functions
+Magnetism & Matter
+Alternating Current
+C-tier:
+Inverse Trigonometric Functions
+Electromagnetic Waves
+=== SECOND SKIN: OPERATING STRATEGY ===
+Current priorities:
+Execute the planned Love DLC strategy and attempt the intended progression around Monday.
+Continue developing genuine emotional attachment rather than merely increasing attraction.
+Attend class when it provides meaningful Love DLC progress.
+Avoid wasting ordinary social actions now that general social stats are maxed unless they trigger Love/story progress.
+Aggressively improve Study percentage before Sept 16.
+Prioritize high-value chapters and measurable completion.
+Use Dense-Core Shake strategically for energy/diet/physical-development efficiency.
+Consider Super Actions or Special Tasks when their multiplied results justify their increased requirements.
+Explore drawing/commission income as an early creative-money route.
+Complete the bank/adult-account conversion quest around Sept 9.
+Preserve important Wisdom Implant findings in notes before closing future sessions.
+Maintain awareness of White's benchmark and use S-rank opportunities when Ryu can meaningfully outperform him.
+Continue physical development and diet progress.
+Preserve major-choice flexibility and avoid accidentally locking spoiler-sensitive endings.
+Cheat philosophy:
+Cheats are allowed by the current run strategy.
+Priority is practical optimization rather than artificial self-imposed difficulty.
+Dense-Core Shake is favored for diet/energy efficiency.
+Brain Wiring Manipulation is favored for action economy, endurance, Willpower efficiency, learning, and stat optimization.
+Super Actions and Special Tasks are favored when the multiplied result justifies their increased requirements.
+Wisdom Implant is favored when expert consultation is needed, but permanent notes must be created before closing the session.
+Fetish Scroll is currently disabled and is not part of the optimization strategy.
+Current mission:
+Close the enormous Study gap.
+Use the remaining 11 days efficiently.
+Do not wait for motivation.
+Measure actual completion.
+Use White as the benchmark.
+Outperform him.
+FINAL OBJECTIVE:
+☠️ TAKE THE S-RANK.
