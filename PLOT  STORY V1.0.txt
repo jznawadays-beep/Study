@@ -1,0 +1,743 @@
+Writing
+SECOND SKIN — PLOT / STORY NOTE
+Version: 1.0
+
+Purpose:
+This file contains the chronological story, lore, characters, plot developments, relationship developments, cutscenes, major reveals, ending lore, and spoiler-sensitive narrative information from Second Skin.
+
+This file is intentionally separate from SECOND_BRAIN.
+Gameplay mechanics, optimization, study systems, rank calculations, stat formulas, and general strategy belong in SECOND_BRAIN.
+
+==================================================
+
+1. THE BEGINNING — RYU BECOMES THE PLAYER
+   ==================================================
+
+Second Skin begins in an infinite void.
+
+The Player encounters Jad.
+
+Jad's original soul is gone / leaving his life behind, and the Player becomes the soul controlling Jad's body and life.
+
+The Player chooses the name:
+
+RYU SAKI
+
+Jad's memories and life context are transferred to the Player as Jad fades away.
+
+The Player experiences approximately three years of Jad's history through a memory montage.
+
+After receiving those memories, the Player spends approximately two months living as Jad before the actual gameplay begins.
+
+The central identity conflict is established immediately:
+
+Ryu knows that he is Ryu.
+
+The outside world still knows him as Jad.
+
+The Player is therefore living inside an inherited identity while gradually attempting to establish his own.
+
+Gameplay begins on August 22, 2026.
+
+==================================================
+2. THE INITIAL LIFE
+
+At the beginning of the playable story, Ryu is effectively living the life Jad left behind.
+
+Friends, family, classmates, and other people continue to perceive him as Jad.
+
+Ryu has access to Jad's memories and relationships, but his internal identity is Ryu.
+
+This creates one of the game's long-running narrative questions:
+
+Can Ryu eventually separate himself completely from Jad's identity?
+
+The story later establishes that this is not merely cosmetic.
+
+There are possible endings where Ryu fails to establish his own identity.
+
+==================================================
+3. THE 18TH-BIRTHDAY ARC
+
+Jad's 18th birthday had been undisclosed to Ryu.
+
+Around August 27, Ryu's friends organize a boys' beach trip connected to the birthday.
+
+Ryu chooses the spend-money birthday-trip option.
+
+The trip eventually leads to the bridge-at-midnight sequence.
+
+The bridge sequence triggers the 18th-birthday progression cutscene.
+
+The birthday aftermath continues into August 28 through friends' stories, birthday mentions, food-fight posts, and social activity.
+
+The 18th birthday is a major narrative milestone.
+
+It marks Ryu's transition into adulthood and opens a large portion of the world that had previously been inaccessible.
+
+Among the newly accessible parts of life are:
+
+- Greater independence
+- The city
+- Driving
+- Apartment living
+- Departure from the parents' home
+- Love-related possibilities
+- Greater control over personal identity
+- Adult financial systems
+
+The story begins feeling substantially larger after this point.
+
+==================================================
+4. THE TWO PARALLEL RUNS
+
+White exists as a parallel version of the Player.
+
+White is not simply another person inside the story.
+
+He represents the version of Ryu who consistently takes action and follows through.
+
+The two runs share the same starting conditions.
+
+White's story therefore acts as a mirror of what Ryu's life could look like under different decisions.
+
+The narrative rivalry is not necessarily about defeating White as an enemy.
+
+It is about confronting the alternate version of yourself that actually acted.
+
+==================================================
+5. THE LOVE DLC
+
+The Love DLC becomes available during the early part of the game.
+
+The Player must first decide whether to take the Love route.
+
+If taken, different romantic routes become available.
+
+Two major routes were identified:
+
+EASY ROUTE:
+Jad's female best friend.
+
+HARD ROUTE:
+The girl Jad originally liked, who is currently involved with Jad's old friend.
+
+Ryu chose the EASY ROUTE.
+
+==================================================
+6. THE BEST FRIEND
+
+Jad's female best friend has a long-standing relationship with the Player because she knew Jad before Ryu took control.
+
+She therefore already has years of emotional familiarity with the person she believes is Jad.
+
+Ryu inherited this relationship.
+
+The resulting romance is complicated because Ryu's feelings are his own, while the history that makes the relationship possible originally belonged to Jad.
+
+Ryu eventually develops romantic feelings for her and confesses.
+
+The relationship develops beyond ordinary friendship.
+
+The game later indicates that the attraction is not one-sided.
+
+==================================================
+7. DRUNKEN LOVE
+
+During class on September 1, Ryu experiences the "Drunken Love" effect after looking into the girl's eyes.
+
+The experience dramatically changes his perception of her.
+
+He becomes intensely focused on:
+
+- Her eyes
+- Her lips
+- Her voice
+- Her presence
+- Her small reactions
+
+Her words begin sounding almost musical.
+
+Ryu becomes unable to comfortably look away from her.
+
+The attraction becomes extremely intense.
+
+Ryu also discovers through lip-reading that she is experiencing comparable romantic feelings.
+
+Room gossip further confirms that she is interested in him.
+
+Her behavior during the Drunken Love state appears to mirror Ryu's own behavior closely.
+
+This becomes the first major indication that the romantic tension between them is genuinely mutual.
+
+==================================================
+8. THE WISDOM IMPLANT LOVE RESEARCH
+
+Ryu uses the Wisdom Implant to investigate the Love DLC.
+
+The first major consultation uses Robert Greene's
+"The Art of Seduction" as source material.
+
+The consultation focuses on understanding the best-friend route.
+
+Several concepts are recovered and preserved before the temporary consultation disappears.
+
+The most relevant narrative ideas are:
+
+IDEAL LOVER:
+Observe the specific individual instead of treating attraction as a universal formula.
+
+NATURAL:
+The best friend relationship naturally contains familiarity, comfort, playfulness, and emotional ease.
+
+ENTER THEIR SPIRIT:
+Understand the other person's world, interests, emotions, and perspective.
+
+PAY ATTENTION TO DETAIL:
+Small personally meaningful details may matter more than generic grand gestures.
+
+The consultation also discusses manipulative approaches involving jealousy, withdrawal, uncertainty, and emotional pressure.
+
+These are distinguished from genuine love.
+
+The story's important distinction becomes:
+
+Attraction is not necessarily love.
+
+Ryu's route therefore needs to progress from:
+
+mutual attraction
+→ emotional intimacy
+→ genuine love
+
+The Love DLC itself is not automatically the Love Merge ending.
+
+A specific sequence of later choices is required.
+
+==================================================
+9. THE SECOND WISDOM IMPLANT
+
+A second Wisdom Implant consultation uses David Goggins'
+"Can't Hurt Me" as its source.
+
+This consultation is primarily about execution and overcoming resistance.
+
+It does not reveal a direct Study shortcut.
+
+The narrative significance is more psychological:
+
+Ryu begins treating White not as someone to sabotage, but as a representation of what happens when action is consistently taken.
+
+The core idea becomes:
+
+White is the version of yourself that acted.
+
+Ryu's objective is therefore not to destroy White.
+
+It is to become capable of surpassing him.
+
+==================================================
+10. SOCIAL DEVELOPMENT
+
+Ryu completes two major boys' trips.
+
+The trips significantly develop his social life.
+
+By September 1, Ryu's general social standing has effectively reached its ceiling.
+
+This does not mean the story's relationships are complete.
+
+General social connection and the Love DLC remain separate.
+
+The best-friend relationship continues to develop independently.
+
+==================================================
+11. THE EARLY ADULT LIFE
+
+After the birthday milestone, Ryu gains access to a much larger city and greater independence.
+
+The apartment becomes available.
+
+The apartment represents a major narrative transition away from the parents' home.
+
+The Player also gains the possibility of eventually leaving.
+
+Departure becomes one of the major long-term story threads.
+
+The story later establishes that leaving is not necessarily identical across all routes.
+
+There are references to:
+
+- Natural departure
+- Forced-burn departure
+- Leaving the parents' home
+- Establishing a new identity
+- Obtaining a new passport/name
+
+The exact circumstances surrounding these events remain spoiler-sensitive.
+
+==================================================
+12. THE JAD IDENTITY CONFLICT
+
+The central identity conflict eventually becomes one of the game's ending-defining themes.
+
+Ryu is living as Jad.
+
+However, Ryu does not want his existence to remain permanently defined by Jad.
+
+A major later event can allow Ryu to shed Jad's identity and leave with a new passport/name chosen by the Player.
+
+This creates a major narrative fork.
+
+If Ryu fails to separate himself from Jad, the story can lead toward the secret ending:
+
+JAD'S SKIN.
+
+==================================================
+13. JAD'S SKIN
+
+Jad's Skin is a secret/non-main ending.
+
+It is not officially described simply as a "bad ending," but the outcome is extremely negative.
+
+Ryu never fully sheds Jad's identity.
+
+Instead, Ryu gradually mixes his own personality into the identity he inherited.
+
+The outside world continues to perceive him as Jad.
+
+Over time, Ryu becomes increasingly trapped inside the inherited identity.
+
+The result is a major identity crisis.
+
+Ryu begins losing his sense of who he actually is while attempting to live inside the identity he inherited.
+
+Even reaching the $10M objective does not automatically rescue this route.
+
+Jad's Skin can block the True Ending.
+
+==================================================
+14. THE MAIN ENDINGS
+
+There are three primary ending families.
+
+---
+
+TRUE ENDING
+
+The True Ending is associated with Ryu successfully establishing his own identity.
+
+The Player must reach the $10M objective before the relevant deadline.
+
+However, money alone is not enough.
+
+A major post-$10M event occurs.
+
+Further choices determine the eventual outcome.
+
+The True Ending is connected to Ryu living under his own identity/name.
+
+The romantic relationships associated with the True Ending are not necessarily genuine love.
+
+Romantic attachment in this route can instead be connected to:
+
+- Lust
+- Status
+- Fame
+- Family background
+- Benefits
+- Other external advantages
+
+The True Ending therefore contrasts strongly with the Love Merge ending.
+
+---
+
+MIXED / NEUTRAL ENDINGS
+
+The Neutral family contains variations caused by major choices.
+
+The core outcome remains similar, but the "flavor" changes according to the decisions made throughout the game.
+
+The default neutral path is currently associated with approximately 90% at boards followed by the dream collage.
+
+---
+
+LOVE MERGE ENDING
+
+Love Merge is the third main ending.
+
+It requires a very specific Love DLC route.
+
+The Love DLC normally remains mostly separate from the main plot.
+
+However, a special route eventually connects the two timelines.
+
+At the relevant endgame point, the Player receives a major Choice A/B.
+
+Choice A:
+
+LOVE MERGE
+
+Choice B:
+
+TRUE ENDING
+
+Choosing Love Merge causes the Love DLC timeline to merge with the main story.
+
+The result is radically different from the True Ending.
+
+The distinction has been described as:
+
+"ocean vs sky"
+
+rather than simply good versus bad.
+
+Love Merge is the ONLY main ending in which Ryu genuinely falls in love.
+
+==================================================
+15. HUMAN HEART
+
+Human Heart is a secret ending.
+
+There is exactly one Human Heart ending with no variants.
+
+The route requires a highly conditional chain of morally motivated decisions.
+
+During the main story, certain major events can be prevented by the Player.
+
+The Player does not need to stop everything.
+
+The important requirement is recognizing the events that morally should not happen and intervening even when doing so provides no personal advantage.
+
+Some interventions can actively make the story harder.
+
+The Player may need to sacrifice advantages or allow the main story to deviate from its intended trajectory.
+
+One example described by the game's lore involves discovering that a parent is critically ill and choosing to save them despite the intended story trajectory.
+
+The Human Heart route therefore asks a different question from the $10M route:
+
+Will Ryu do what is morally right even when the game gives him no reward for doing it?
+
+Money cannot substitute for these choices.
+
+==================================================
+16. THE $10M OBJECTIVE
+
+$10M is one of the central long-term objectives of Second Skin.
+
+Reaching it before the relevant deadline is necessary for the primary happy-ending route.
+
+However:
+
+$10M ≠ automatic True Ending.
+
+The story deliberately separates financial success from the final moral/identity/relationship outcome.
+
+After $10M, a major event occurs.
+
+The Player must then make further choices.
+
+==================================================
+17. THE LEAVING / DEPARTURE THREAD
+
+Leaving the parents' home is a major story development.
+
+The apartment becomes the gateway to independent living.
+
+Eventually, departure from the parents' home becomes possible.
+
+The story distinguishes between different forms of departure.
+
+The manual references:
+
+NATURAL DEPARTURE
+
+and
+
+FORCED BURN DEPARTURE
+
+The exact circumstances behind these paths remain spoiler-sensitive.
+
+After departure, returning to the parents' home for extended periods becomes restricted under normal circumstances.
+
+Later story developments can involve the parents' deaths.
+
+Their graves become visitable only after four months.
+
+==================================================
+18. FUTURE MAJOR CHOICE THEMES
+
+Several major story decisions are known to exist without their exact details being recorded.
+
+Known themes include:
+
+- What happens to Jad's identity
+- Whether Ryu leaves home
+- A major spoiler-locked event
+- Falling for a certain person outside the normal Love DLC structure
+- Whether Ryu chooses to take a leap and trust himself
+- Other high-stakes decisions
+- The post-$10M event
+- True vs Neutral outcomes
+
+Exact choice wording and consequences remain intentionally spoiler-sensitive.
+
+==================================================
+19. LOVE DLC — CURRENT ROUTE STATUS
+
+Ryu is currently on the EASY Love DLC route.
+
+The target is Jad's female best friend.
+
+Ryu has already confessed.
+
+Mutual attraction has been strongly established.
+
+The major remaining narrative problem is no longer:
+
+"Can Ryu make her attracted to him?"
+
+It is:
+
+"Can this attraction become genuine emotional attachment and eventually genuine love?"
+
+The route has a target Love level in the approximate 80%-95% region rather than simply requiring maximum Love.
+
+The specific Love Merge conditions remain partially spoiler-locked.
+
+==================================================
+20. THE SEPTEMBER RELATIONSHIP ARC
+
+After the earlier attraction developments, the relationship continues through increasingly emotionally charged interactions.
+
+Ryu develops a stronger awareness that the best-friend relationship is no longer emotionally neutral.
+
+On September 9, the best friend messages Ryu asking why he skipped classes.
+
+The conversation is pleasant and carries light flirting because of their existing closeness.
+
+The relationship still has warmth and familiarity despite the uncertainty surrounding the route.
+
+==================================================
+21. THE SEPTEMBER 11 INCIDENT
+
+On September 11 at approximately 2:30 PM, Ryu experiences an extreme emotional reaction while drunk.
+
+He sends the best friend a highly confrontational message:
+
+"I cannot keep acting as your friend when I feel more, so just leave me alone. Don't reply. I don't wanna talk about this right now."
+
+She does not reply.
+
+This creates a serious rupture in the Love DLC route.
+
+The Love route is placed at significant risk.
+
+Ryu subsequently decides that he is done pursuing the Love DLC.
+
+His reasoning is that the Love DLC is optional.
+
+A normal girlfriend/relationship can theoretically exist without completing the special Love DLC route.
+
+Ryu therefore temporarily treats the Love DLC as something not worth grinding for.
+
+==================================================
+22. THE APARTMENT SPOILER
+
+While examining the manual's plot section, Ryu discovers a major spoiler.
+
+After the apartment is unlocked, there is approximately a 65% chance that the best friend will fall for the Player.
+
+The important distinction is that the manual does NOT frame this as her falling for Ryu because of greed, money, or material benefits.
+
+It is connected to a cutscene in the plot.
+
+This discovery significantly changes the interpretation of the best-friend route.
+
+It suggests that the relationship has a major plot-driven component rather than being purely a stat-grinding system.
+
+The manual contains additional spoilers beyond this point.
+
+==================================================
+23. THE HARD LOVE ROUTE
+
+The alternative Love route involves the girl Jad originally liked.
+
+At the beginning of the story, she is already in a relationship with Jad's old friend.
+
+The route involves secretly pursuing her and potentially getting her to cheat.
+
+This route is substantially more morally and narratively complicated.
+
+Ryu is not currently pursuing this route.
+
+==================================================
+24. CHEATING / MULTIPLE-LOVER STORYLINES
+
+The game contains systems where multiple lovers can exist simultaneously.
+
+The story can become increasingly unstable as the number of cheating partners increases.
+
+More than three cheating partners creates major risk to the Love Merge route if discovered.
+
+The twelfth cheating attempt has a guaranteed catch condition when the relevant proximity conditions are met.
+
+There are theoretically ways to maintain more than twelve partners if geographic separation is sufficiently large, but this is explicitly unstable.
+
+If the Player is caught:
+
+- Other lovers may leave.
+- The genuine lover may potentially still be saved.
+- The story can enter a highly unstable recovery path.
+
+These systems are documented as spoiler-sensitive narrative information, not recommended behavior.
+
+==================================================
+25. SECRET ROMANTIC / SEXUAL EVENTS
+
+The game contains special occasions where a Player's or lover's birthday can trigger romantic/sexual events.
+
+Some of these events can involve multiple rounds.
+
+Exact probabilities are not treated as fully canonical unless confirmed through gameplay.
+
+==================================================
+26. THE FETISH SCROLL
+
+After several days of adulthood, Ryu discovers a special adulthood-related scroll.
+
+The game describes it as biologically safe within its own mechanics.
+
+When activated, it displays pornographic material.
+
+However, the game's mechanics explicitly distinguish the experience from ordinary lust.
+
+Instead, the major effect is an intense continuous dopamine/reward state that temporarily overwhelms logical thinking.
+
+Ryu tests the scroll once.
+
+He immediately decides that he does not like the experience.
+
+The scroll is disabled permanently through settings.
+
+Current story state:
+
+Fetish Scroll = OFF.
+
+==================================================
+27. THE OUTSIDE-WORLD / FAMILY THREAD
+
+The family remains part of the long-term story even as Ryu moves toward independence.
+
+The parents' eventual deaths are part of the game's later timeline.
+
+The graves become accessible four months after death.
+
+The story therefore contains a delayed grief/aftermath element rather than allowing immediate grave visits.
+
+The exact circumstances surrounding the deaths remain spoiler-sensitive.
+
+==================================================
+28. THE CREATIVE CAREER THREAD
+
+Ryu discovers that he has a talent for drawing.
+
+The discovery introduces a possible creative-career path.
+
+The story connects this talent to the broader financial objective.
+
+Drawing may eventually become monetized through commissions or similar creative work.
+
+The exact long-term outcome of this path remains unresolved.
+
+==================================================
+29. THE BANK / ADULTHOOD THREAD
+
+After turning 18, Ryu begins establishing his adult financial identity.
+
+He collects the necessary documents and starts the bank setup process.
+
+The bank later reports that the account/adult conversion should complete after a waiting period.
+
+This is primarily a progression event rather than a major plot arc, but it marks Ryu's transition toward financial independence.
+
+==================================================
+30. THE CENTRAL THEMES
+
+Second Skin's story repeatedly returns to several questions.
+
+IDENTITY:
+Who is Ryu when everyone else still sees Jad?
+
+FREEDOM:
+How much of Ryu's life can actually become his own?
+
+MONEY:
+Can $10M create freedom, or does money only solve part of the problem?
+
+LOVE:
+Can Ryu genuinely love someone, or are romantic relationships fundamentally transactional?
+
+MORALITY:
+Will Ryu do what is right when the game provides no reward for doing it?
+
+CHOICE:
+Does freedom come from choosing the correct route, or from having the courage to choose one's own route?
+
+SELF:
+Is Ryu merely controlling Jad's life, or is he actually building a new life of his own?
+
+==================================================
+31. CURRENT STORY POSITION
+
+Current known narrative position:
+
+- Ryu has fully taken the identity of Ryu Saki internally.
+- The outside world still primarily recognizes him through Jad's inherited identity.
+- The 18th-birthday/adulthood arc has been completed.
+- The city, apartment, adulthood, departure, and Love DLC systems are available.
+- Ryu has completed two major boys' trips.
+- General social development is effectively maxed.
+- The Love DLC easy route was pursued.
+- Mutual attraction with Jad's female best friend was strongly established.
+- Ryu confessed.
+- The relationship developed through several romantic interactions.
+- The September 11 drunk message caused a major rupture.
+- Ryu temporarily abandoned the Love DLC route.
+- The manual later revealed the apartment-related 65% best-friend falling-in-love plot trigger.
+- The Love DLC remains optional.
+- The long-term $10M objective remains active.
+- The identity/departure storyline remains unresolved.
+- The major ending branches remain unresolved.
+- The True Ending, Neutral endings, Love Merge, Jad's Skin, and Human Heart remain possible narrative destinations depending on future choices.
+
+==================================================
+32. SPOILER POLICY
+
+This file is intentionally spoiler-heavy.
+
+SECOND_BRAIN should NOT be used as the primary storage location for:
+
+- Plot twists
+- Cutscene descriptions
+- Character relationship developments
+- Chronological story events
+- Ending details
+- Secret ending conditions
+- Major choice consequences
+- Relationship dialogue
+- Spoiler-sensitive manual discoveries
+
+Those belong here.
+
+However, mechanics that are necessary for actually playing the game should remain in SECOND_BRAIN even if they have minor narrative implications.
+
+The goal is to keep the two files clean:
+
+SECOND_BRAIN = HOW THE GAME WORKS.
+
+PLOT_STORY_NOTE = WHAT HAPPENED IN THE STORY.
+
+==================================================
+END OF PLOT_STORY_NOTE v1.0
